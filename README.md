@@ -25,4 +25,4 @@ orange is F8981C
 grey is BCBBBBB
 dark grey is 747704
 
-
+Package.json file is set up to resemble the one from the responsive images course.
