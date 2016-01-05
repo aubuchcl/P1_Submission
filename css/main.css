@@ -101,10 +101,12 @@ a{
 }
 
 .feature img{
+	max-width: 95%;
 	width: 95vw;
 	height: auto;
 	border: 1px solid grey;
 	margin: 8px;
+	margin-left: 15px;
 }
 
 
