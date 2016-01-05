@@ -109,4 +109,18 @@ a{
 	margin-left: 15px;
 }
 
+.first-bottom-img{
+	max-width: calc((100% / 3) - 20px);
+	margin-right: 10px;
+}
+
+.second-bottom-img{
+	max-width: calc((100% / 3) - 20px);
+	margin-right: 10px;
+}
+
+.third-bottom-img{
+	max-width: calc((100% / 3) - 20px);
+}
+
 
