@@ -2,7 +2,7 @@
 	background-color: green;
 }*/
 
-.img-wrapper{
+.img-wrapper {
 	width: calc((100% / 3) - 20px);
 	margin-right: 10px;
 }	

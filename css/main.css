@@ -5,102 +5,111 @@
     box-sizing: border-box;
 }
 
+p {
+	display: block;
+	margin: auto;
+	color: grey;
+	font-size: 16px;
+}
+
 .grid {
     margin: 0 auto;
     max-width: 1200px;
     width: 100%;
 }
 
-.row{
+.row {
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 }
 
-.col-1{
+.col-1 {
 	width: 8.33%;
 }
 
-.col-2{
+.col-2 {
 	width: 16.66%;
 }
 
-.col-3{
+.col-3 {
 	width: 25%;
 }
 
-.col-4{
+.col-4 {
 	width: 33.33%;
 }
 
-.col-5{
+.col-5 {
 	width: 41.66%;
 }
 
-.col-6{
+.col-6 {
 	width: 49.99%;
 }
 
-.col-7{
+.col-7 {
 	width: 58.32%;
 }
 
-.col-8{
+.col-8 {
 	width: 66.65%;
 }
 
-.col-9{
+.col-9 {
 	width: 74.98%;
 }
 
-.col-10{
+.col-10 {
 	width: 83.31%;
 }
 
-.col-11{
+.col-11 {
 	width: 91.62%;
 }
 
-.col-12{
+.col-12 {
 	width: 99.98%;
 }
 
-.ninja{
+.ninja {
 	font-size: 18px;
 	text-align: right;
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	font-weight: 100;
 }
 
-.top{
+.top {
 	border-bottom: 2px solid #747704;;
 	margin-bottom: 4px;
 }
 
-h1{
+h1 {
 	text-align: right;
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	font-weight: 400;
 	font-size: 26px;
 }
 
-h2{
+h2 {
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
-h3{
+h3 {
 	text-align: center;
 }
 
-a{
+a {
 	font-size: 12px;
 	text-decoration: none;
 	color: grey;
+	display: block;
+	margin: auto;
 }
 
-.feature img{
+.feature img {
 	max-width: 95%;
 	width: 95vw;
 	height: auto;
@@ -108,11 +117,11 @@ a{
 	margin: 8px;
 }
 
-.feat-work{
+.feat-work {
 	
 }
 
-.first-bottom-img{
+.first-bottom-img {
 	/*max-width: calc((100% / 3) - 30px);*/
 	/*margin-left: 25px;*/
 	max-height: 200px;
@@ -120,14 +129,14 @@ a{
 
 }
 
-.second-bottom-img{
+.second-bottom-img {
 	/*max-width: calc((100% / 3) - 30px);
 	margin-left: 10px;*/
 	max-height: 200px;
 	width: 100%;
 }
 
-.third-bottom-img{
+.third-bottom-img {
 	/*max-width: calc((100% / 3) - 30px);
 	margin-left: 10px;*/
 	max-height: 200px;
@@ -135,12 +144,12 @@ a{
 	
 }
 
-.img-wrapper{
+.img-wrapper {
 	width: 100vw;
 	margin-top: 4vh;
 }
 
-.appify{
+.appify {
 	text-align: center;
 }
 
